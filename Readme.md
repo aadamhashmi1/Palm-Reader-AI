@@ -189,9 +189,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Email report generation
 - [ ] Mobile app version
 
-## 📞 Support
-
-For support, email support@palmreadingai.com or create an issue in this repository.
 
 ## ⚖️ Disclaimer
 
