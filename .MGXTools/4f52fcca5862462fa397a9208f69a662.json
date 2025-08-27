@@ -2,7 +2,7 @@
     "tabs": {
         "00": {
             "tab_id": "00",
-            "cwd": "/workspace/Palm-Reader-AI",
+            "cwd": "/workspace/shadcn-ui",
             "observer": {
                 "block": "Terminal",
                 "uuid": "ac506eda-663a-4cd4-9ba0-497fba41f161",
